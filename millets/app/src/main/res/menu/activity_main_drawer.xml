@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_intro"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Introduction" />
+        <item
+            android:id="@+id/nav_whymilltes"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Why Millets?" />
+        <item
+            android:id="@+id/nav_hismillets"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="A Brief History of Millets" />
+        <item
+            android:id="@+id/nav_cultimillets"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Cultivating Millets" />
+        <item
+            android:id="@+id/nav_milletsenvir"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Millets and Environment" />
+        <item
+            android:id="@+id/nav_milletstypes"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Millets Types" />
+        <item
+            android:id="@+id/nav_milletspotential"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Nutritional Potential of Millets" />
+        <item
+            android:id="@+id/nav_milletspoten"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Explore Millets" />
+        <item
+            android:id="@+id/nav_milletsprocess"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Processing of Millets" />
+        <item
+            android:id="@+id/nav_milletsmerchandise"
+            android:icon="@drawable/ic_play_arrow_black_24dp"
+            android:title="Millets in the Merchandise" />
+    </group>
+
+    <item android:title="Communicate">
+    <menu >
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Contact Us" />
+
+        </menu>
+    </item>
+
+</menu>

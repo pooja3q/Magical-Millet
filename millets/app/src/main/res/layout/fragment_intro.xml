@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e7fdc8">
+    <WebView
+        android:id="@+id/web_intro1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </WebView>
+
+    <ImageView
+        android:layout_width="316dp"
+        android:layout_height="230dp"
+        android:src="@drawable/millet_intro"
+        android:layout_gravity="center"
+        />
+    <ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <WebView
+            android:id="@+id/web_intro"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </WebView>
+    </ScrollView>
+</LinearLayout>
