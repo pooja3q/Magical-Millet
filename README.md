@@ -31,3 +31,29 @@ At this point, you should be able to build and run the project in the Android de
 App is currently built to work with Android API 21(LOLLIPOP). However, App's minimum SDK support is API level 19(KitKat).
 
 # Screenshots
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/Screenshot_2018-10-10-20-57-15-592_com.poojaexample.millets.jpg)
+
+
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/IMG_20181010_210057.jpg)
+
+
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/IMG_20181010_210041.jpg)
+
+
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/IMG_20181010_210022.jpg)
+
+
+
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/IMG_20181010_210002.jpg)
+
+
+
+
+![alt-text](https://github.com/pooja3q/Magical-Millet/blob/master/img/IMG_20181010_205945.jpg)
+
+
